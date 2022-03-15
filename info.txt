@@ -1,0 +1,16 @@
+"pages"
+- about the app
+- add new day
+- view all days
+- view one day
+    - add new food for one day
+
+
+
+old code:
+
+<header className='header'>
+            <span className='left'></span>
+            <h1 className='about'>About</h1>
+        <Button text='Back' />
+</header>
